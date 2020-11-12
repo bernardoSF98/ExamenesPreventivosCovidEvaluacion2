@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="icono_width_toolbar">40dp</dimen>
+    <dimen name="icono_height_toolbar">40dp</dimen>
+    <dimen name="tamaño_Letra">25sp</dimen>
+    <dimen name="margin_top">20sp</dimen>
+    <dimen name="margin_start">10sp</dimen>
+    <dimen name="margin_botton">20sp</dimen>
+    <dimen name="margin_end">10sp</dimen>
+    <dimen name="sistomas_size">21sp</dimen>
+    <dimen name="button_120">120sp</dimen>
+    <dimen name="padding_toolbar">10dp</dimen>
+</resources>

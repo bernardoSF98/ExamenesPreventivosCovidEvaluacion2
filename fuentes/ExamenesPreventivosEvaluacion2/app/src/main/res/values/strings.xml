@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">ExamenesPreventivosEvaluacion2</string>
+    <string name="registrar_nuevo_paciente">Registrar Nuevo Paciente</string>
+    <string name="rut_del_paciente">Rut Del Paciente</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="fecha_de_examen">Fecha De Examen</string>
+    <string name="area_de_trabajo">Area De Trabajo</string>
+    <string name="presenta_sistomas">Presenta Sistomas?</string>
+    <string name="temperatura">Temperatura:</string>
+    <string name="presenta_tos">Presenta Tos?</string>
+    <string name="presi_n_arterial">Presión Arterial:</string>
+    <string name="submit">Agregar Paciente</string>
+    <string name="registrar_paciente">Registrar Paciente</string>
+    <string-array name="area_trabajo">
+        <item>Atencíon A Publico</item>
+        <item>Otro</item>
+    </string-array>
 </resources>
